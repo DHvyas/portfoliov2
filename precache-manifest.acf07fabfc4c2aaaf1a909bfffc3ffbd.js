@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96718782f5e9f04affd57149f6b4eba2",
+    "revision": "4e78d3811b1aa840db0fac6887756e35",
     "url": "dhruvvyas.me/index.html"
   },
   {
-    "revision": "de96874428b692c69833",
+    "revision": "bd1c77dde9e9f89f2a4b",
     "url": "dhruvvyas.me/static/css/main.961770bc.chunk.css"
   },
   {
-    "revision": "add30d38b878267e5ccc",
-    "url": "dhruvvyas.me/static/js/2.116cca78.chunk.js"
+    "revision": "c802a7516f2efda5a3bd",
+    "url": "dhruvvyas.me/static/js/2.0685c2ba.chunk.js"
   },
   {
-    "revision": "de96874428b692c69833",
-    "url": "dhruvvyas.me/static/js/main.0415b5e6.chunk.js"
+    "revision": "bd1c77dde9e9f89f2a4b",
+    "url": "dhruvvyas.me/static/js/main.2c6ab21e.chunk.js"
   },
   {
     "revision": "43afbb9e4391f3015ead",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "90a564d3042c5708d0d6bb6fb864f0e5",
     "url": "dhruvvyas.me/static/media/jufmyrlogo.90a564d3.png"
-  },
-  {
-    "revision": "25bf045ca257e971124f3997d89f321c",
-    "url": "dhruvvyas.me/static/media/logo.25bf045c.svg"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
