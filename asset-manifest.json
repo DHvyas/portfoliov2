@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.e214f93f.chunk.css",
-    "main.js": "/static/js/main.afa543ba.chunk.js",
-    "main.js.map": "/static/js/main.afa543ba.chunk.js.map",
+    "main.js": "/static/js/main.cead1a06.chunk.js",
+    "main.js.map": "/static/js/main.cead1a06.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a7c448a7.js",
     "runtime-main.js.map": "/static/js/runtime-main.a7c448a7.js.map",
     "static/js/2.0685c2ba.chunk.js": "/static/js/2.0685c2ba.chunk.js",
     "static/js/2.0685c2ba.chunk.js.map": "/static/js/2.0685c2ba.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cc112a02f44e349e259fe8f1a53b227f.js": "/precache-manifest.cc112a02f44e349e259fe8f1a53b227f.js",
+    "precache-manifest.c5b860938af3e7f3af7c788922bf712a.js": "/precache-manifest.c5b860938af3e7f3af7c788922bf712a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e214f93f.chunk.css.map": "/static/css/main.e214f93f.chunk.css.map",
     "static/media/index.css": "/static/media/Apercu-Light.a5229c50.woff",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.a7c448a7.js",
     "static/js/2.0685c2ba.chunk.js",
     "static/css/main.e214f93f.chunk.css",
-    "static/js/main.afa543ba.chunk.js"
+    "static/js/main.cead1a06.chunk.js"
   ]
 }
