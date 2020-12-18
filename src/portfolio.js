@@ -10,7 +10,7 @@ const greeting = {
   username: "Dhruv Vyas",
   title: "Hello! I'm Dhruv",
   subTitle: emoji("a design-minded front-end software engineer focused on building beautiful interfaces & experiences."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "#"
 };
 
 // Your Social Media Link
